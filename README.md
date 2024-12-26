@@ -1,4 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mail Scheduler
+
+## Features
+- Fetch mailers and lists via mock APIs.
+- Schedule mail campaigns with date and time selection.
+- Full responsive UI built with Tailwind CSS.
+
+
+## How to Setup:
+- Clone the repository:
+  ```bash
+  git clone <https://github.com/saisathwik22/mail-scheduler
+  cd mail-scheduler
+- install npm
+  ```bash
+  npm install
+
+  npm run dev
+
+- Open http://localhost:3000 in your browser
 
 ## Getting Started
 
