@@ -9,7 +9,7 @@
 ## How to Setup:
 - Clone the repository:
   ```bash
-  git clone <https://github.com/saisathwik22/mail-scheduler
+  git clone https://github.com/saisathwik22/mail-scheduler
   cd mail-scheduler
 - install npm
   ```bash
